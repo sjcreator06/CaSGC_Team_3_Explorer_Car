@@ -1,6 +1,0 @@
-Coding Contents 
-
-1) Autonomous Driving (Bottom RedBoard): Ultra Sonic Distance Sensor, Motor Driver, 4 Motors 
-2) Atmospheric Data stored in SD card: Temperature Sensor, Humidity Sensor 
-3) GPS Location of Photo: GPS Module 
-4) Taking Pictures: Camera Module and SD Card
